@@ -1,2 +1,0 @@
-# Photogram
-clon instagram
